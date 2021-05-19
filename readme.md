@@ -8,7 +8,7 @@
 > The dataset was collected during one month Feb/2019
 > It consists of 16 variables.
 > The dataset includes:
-ride duration in seconds.  
+>>ride duration in seconds.  
 start and end time.  
 start station name and end station name.  
 start station id and end station id.  
